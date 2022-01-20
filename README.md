@@ -1,2 +1,2 @@
 # Buscador de gifs 
-Creador en react
+Creado en react
